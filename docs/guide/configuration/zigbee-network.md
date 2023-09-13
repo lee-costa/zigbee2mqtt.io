@@ -11,7 +11,7 @@ permit_join: true
 ```
 
 ::: warning ATTENTION
-It's important to disable `permit_join` after you've peered your devices. This keeps the Zigbee
+It's important to disable `permit_join` after you've paired your devices. This keeps the Zigbee
 network safe and prevents accidental joining of other Zigbee devices. When a device joins, the coordinator exposes the
 network key.
 :::
